@@ -1,0 +1,14 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch app.js",
+    "debug": "node --watch --inspect-brk app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
